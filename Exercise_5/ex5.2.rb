@@ -1,5 +1,4 @@
-puts "Try to write some variables that convert the inches and pounds to centimeters and kilograms. Do not just type in the measurements." 
-puts "Work out the math in Ruby:"
+puts "Try to write some variables that convert the inches and pounds to centimetres and kilograms. Do not just type in the measurements." 
 
 my_name = "Zed A. Shaw"
 my_age = 35 
