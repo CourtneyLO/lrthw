@@ -1,7 +1,7 @@
 # Now that you are using $stdin.gets.chomp (see #3) you can add ARGV to your script to get something from the user. 
 # Don't over think this. Just use ARGV to get one thing, then $stdin.gets.chomp to get something else.
 
-membership_number = ARGV
+membership_number = ARGV.first
 
 puts "Your membership number is #{membership_number}"
 
