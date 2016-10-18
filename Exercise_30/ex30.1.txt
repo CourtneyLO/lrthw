@@ -2,4 +2,4 @@ Try to guess what elsif and else are doing.
 
 => else prints out message if statement is true. 
 => elsif prints out message if 'if statement' isn't true but its own statement is true.
-=> else statement prints out message if orginial statement is false 
+=> else statement prints out message if original statement is false
