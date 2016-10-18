@@ -1,3 +1,5 @@
+# Change the first for number in the_count to be a more typical .each style loop like the others.
+
 the_count = [1, 2, 3, 4, 5]
 fruits = ["apples", "oranges", "pears", "apricots"]
 change = [1, "pennies", 2, "dimes", 3, "quarters"]
