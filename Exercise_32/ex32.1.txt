@@ -1,0 +1,4 @@
+Take a look at how you used (0..5) in the last for-loop. Look up Ruby's "range operator" (.. and ...) online to see what it does.
+
+.. - is inclusive - it includes the number that follows the last period 
+... - is not inclusive - does not include the number that follows the last period
