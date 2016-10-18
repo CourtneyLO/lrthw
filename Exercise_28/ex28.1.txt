@@ -1,0 +1,18 @@
+Ruby Assignement and Comparions Operators 
+
+==        equals 
+!=        not equals
+<         smaller than 
+>         bigger than
+<=        smaller than or equals 
+>=        bigger than or equals
+===       equal (case statements)
+<=        compare 
+.eql?     is it equal (same type and equal values)
+.equal?   is it equal (same object id)
++=        add equals 
+-=        subtract equals 
+*=        mulitply equals 
+/         divide equals 
+%=        modulus equals 
+**=       exponent equals 
