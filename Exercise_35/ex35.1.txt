@@ -1,0 +1,10 @@
+Draw a map of the game and how you flow through it.
+
+        right : cthulhu_room : start (full loop)
+                             : dead 
+start <                      : cthulhu_room (start/ dead/ cthulhu_room)
+      
+        left  :  bear_room   : gold_room : exit  (You Win!)
+                                         : dead 
+                             : dead 
+
