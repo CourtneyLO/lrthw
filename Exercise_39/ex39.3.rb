@@ -8,9 +8,17 @@ cities_abbrev = {
                   "Kimberley" => "Kimberley"
                 }
 
-sort = cities_abbrev.sort_by { |name, abbrev| abbrev }
+sort = cities_abbrev.sort_by { |name, abbrev| abbrev }.flatten
 
-puts "#{sort}"
+sorted_cities_abbrev = { sort[0] => sort[1],
+                         sort[2] => sort[3],
+                         sort[4] => sort[5],
+                         sort[6] => sort[7],
+                         sort[8] => sort[9]} 
+
+puts "#{sorted_cities_abbrev}"
+
+# Other options I tried but I was unsuccessful 
 
 #s = sort.each {|n| print n[0].gsub(/ , /, "=>")}
 #s = sort.gsub (/[ , ]/ "=>")
