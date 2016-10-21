@@ -1,4 +1,4 @@
-puts "Write another \"form\" like this to ask some other questions." 
+# Write another \"form\" like this to ask some other questions. 
 
 puts "Hi, what is your name?"
 name = gets.chomp.capitalize
