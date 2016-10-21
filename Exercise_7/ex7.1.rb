@@ -1,4 +1,4 @@
-puts "Go back through and write a comment on what each line does."
+# Go back through and write a comment on what each line does.
 
 # prints out the sentence with a line break at the end 
 puts "Mary had a little lamb."
