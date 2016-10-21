@@ -1,4 +1,5 @@
-# card billing  
+# Card billing 
+
 print "Card Number: "
 card_number = $stdin.gets.chomp 
 print "Name on card: "
@@ -18,7 +19,7 @@ puts "Expiry date #{card_billing_address[2]} for card number #{card_billing_addr
 
 puts "\n"
 
-# phone book
+# Phone book
 
 print "First name: "
 name = $stdin.gets.chomp
@@ -41,7 +42,7 @@ puts "Find number for #{name}: phone_book[2]"
 
 puts "\n"
 
-# loto_ticket
+# Loto_ticket
 
 loto_ticket = [2,45,34,43,21]
 
@@ -62,6 +63,8 @@ puts "I am looking for index #{book}"
 
 puts "\n"
 
+# List of artists
+
 artists = ["Savage Garden", "Seth Sentry", "Snoop Dog", "Vance Joy"]
 
 find_index = artists.index("Vance Joy")
@@ -71,7 +74,7 @@ puts "The index of #{find_artist} is #{find_index}"
 
 puts "\n"
 
-# list of empoyees 
+# List of empoyees 
 
 employees = ["Sue Abrams", "Jane Annable", "Lesley Douglous", "Peter Williams"]
 
@@ -81,6 +84,8 @@ puts "Employee at index 3 is #{find_employee}"
 
 puts "\n"
 
+# List of students 
+
 students = ["Kyle Bradly", "Sean James", "Jane Scott", "Ann William"]
 
 find_position = students.index("Jane Scott")
@@ -88,6 +93,8 @@ find_position = students.index("Jane Scott")
 puts "The position of student Jane Scott is #{find_position}"
 
 puts "\n"
+
+# Possible colours
 
 colours = ["green", "blue", "yellow", "red", "orange"]
 
