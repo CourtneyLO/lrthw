@@ -9,5 +9,5 @@ print txt_again.read
 
 txt_again.close
 
-# I would say this is better because it is more likely that the users will be using GUI and keyboard then typing directly onto the command line.
-# It also allows input while the script is running. 
+# => I would say this is better because it is more likely that the users will be using GUI and keyboard then typing directly onto the command line.
+# => It also allows input while the script is running. 
