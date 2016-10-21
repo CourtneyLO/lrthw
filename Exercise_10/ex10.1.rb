@@ -1,6 +1,7 @@
-puts "Use ''' (triple-single-quote) instead. Can you see why you might use that instead of """?"
+# Use ''' (triple-single-quote) instead. Can you see why you might use that instead of """?
 
-puts "You would most likely use triple-single-quotes when you are using double quotes in the string, if you do not wish to us a backslash"
+# => You would most likely use triple-single-quotes when you are using double quotes and single quotes in the string, if you do not wish to us a backslash 
+# => or if you want to write more than one line and choose not to use \n escape sequence 
 
 tabby_cat = "\tI'm tabbed in"
 persian_cat = "I'm split\non a line"
