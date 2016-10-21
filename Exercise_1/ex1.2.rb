@@ -1,3 +1,5 @@
+# Make your script print only one of the lines.
+
 puts "Hello World!"
 #puts "Hello Again"
 #puts "I like typing this."
