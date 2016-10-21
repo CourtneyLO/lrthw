@@ -1,4 +1,4 @@
-puts "Find all the places where a string is put inside a string. There are four places."
+# Find all the places where a string is put inside a string. There are four places.
 
 types_of_people = 10
 

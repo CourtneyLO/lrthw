@@ -1,12 +1,10 @@
-puts "What happens when you change the strings to use ' (single-quote) instead of \" (double-quote)? Do they still work? Try to guess why."
+# What happens when you change the strings to use ' (single-quote) instead of \" (double-quote)? Do they still work? Try to guess why.
 
-puts " "
-
-puts "This will not work as a syntax error will be displayed."
-puts "This is because the program is getting confused between the apostrophes used for words like don't with the end of the sentence, for example."
-puts "If you with to use words that contain apostrophes one must either use double quotation marks to indicate the beginning and end of the sentence or a \ in front of the apostrophe"
-puts "Same goes for using quotation makes in a sentence."
-puts "As seen above in the question"
+# => This will not work as a syntax error will be displayed.
+# => "This is because the program is getting confused between the apostrophes used for words like don't with the end of the sentence, for example.
+# => If you with to use words that contain apostrophes one must either use double quotation marks to indicate the beginning and end of the sentence or a \ in front of the apostrophe
+# => Same goes for using quotation makes in a sentence.
+# => As seen above in the question
 
 types_of_people = 10
 

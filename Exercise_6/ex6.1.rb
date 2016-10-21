@@ -1,4 +1,4 @@
-puts "Go through this program and write a comment above each line explaining it."
+# Go through this program and write a comment above each line explaining it.
 
 # types_of_people is a variable that equals 10. Every time you see this variable it will represent 10. 
 types_of_people = 10
