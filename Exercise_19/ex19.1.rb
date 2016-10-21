@@ -1,3 +1,5 @@
+# Go back through the script and type a comment above each line explaining in English what it does.
+
 # Defines the method cheese_and_crackers and gives it two parameters
 def cheese_and_crackers(cheese_count, boxes_of_crackers)
     # Prints out the amount given for parameter cheese_count in a sentence 

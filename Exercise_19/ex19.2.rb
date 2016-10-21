@@ -1,3 +1,5 @@
+# Write at least one more function of your own design, and run it 10 different ways.
+
 def simple_math(a, b)
     puts "You can use this method to work out any sum using two numbers"
     puts a + b 
