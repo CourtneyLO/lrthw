@@ -1,3 +1,5 @@
+# Research the shorthand notation += and rewrite the script to use += instead
+
 input_file = ARGV.first
 
 def print_all(f)
