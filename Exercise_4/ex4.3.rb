@@ -1,3 +1,5 @@
+# Write comments above each of the variable assignments.
+
 # This means that every time we see the variable cars we are actually using the number 100 
 cars = 100
 # This means that every time we see the variable space_in_a_car we are actually using the number 4.0
