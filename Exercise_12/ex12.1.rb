@@ -1,7 +1,7 @@
-puts "Try out the .to_f operation. What does .to_f do?"
-puts ".to_f changes the string into a floating point number which means its a number with decimal places"
+# Try out the .to_f operation. What does .to_f do?
+# => .to_f changes the string into a floating point number which means its a number with decimal places
 
-puts " "
+
 print "Give me a number:"
 number = gets.chomp.to_f
 
