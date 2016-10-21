@@ -1,4 +1,5 @@
-puts "Try to write some variables that convert the inches and pounds to centimetres and kilograms. Do not just type in the measurements." 
+# Try to write some variables that convert the inches and pounds to centimetres and kilograms. 
+# Do not just type in the measurements.
 
 my_name = "Zed A. Shaw"
 my_age = 35 

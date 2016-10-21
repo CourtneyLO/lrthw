@@ -1,4 +1,5 @@
-puts "Change all the variables so there is no my_ in front of each one. Make sure you change the name everywhere, not just where you used = to set them:"
+# Change all the variables so there is no my_ in front of each one. Make sure you change the name everywhere, 
+# not just where you used = to set them:
 
 
 
