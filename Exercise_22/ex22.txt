@@ -1,0 +1,52 @@
+Next to each word or symbol, write its name and what it does: 
+
+print                           - prints to screen 
+puts                            - prints to screen with line break at the end 
+#                               - comments out data - information does not run in script 
++                               - addition
+-                               - subtraction 
+*                               - multiplication 
+/                               - division 
+>                               - greater than 
+<                               - less than
+>=                              - greater than or equals 
+<=                              - less than or equals 
+%                               - modulus - remainder 
+"#{}"                           - converts variable/string/number/calculation to string 
+variable =                      - creates a variable 
+floating point number           - decimal number 
+.to_f                           - converts string/integer into a floating point number 
+integer                         - whole number 
+.to_i                           - converts string/floating point number into an integer 
+boolean                         - true or false 
+variable + variable             - creates a string combining two variables 
+''                              - single quotation marks 
+                                - single quotes/ apostrophe inside another single quote will create an error unless a backslash is placed in front of the (inside) single quotes/apostrophe 
+""                              - double quotation marks 
+                                - double quotes inside another double quotes will create an error unless a backslash is placed in front of the (inside) double quotes 
+\                               - backslash 
+\n                              - new line break 
+\t                              - tab 
+* 10                            - times 10
+%{}                             - allows for strings to be written in an array without quotation marks 
+puts """                        - allows for single and double quotation marks in side without causing an error and using backslash as well as allowing for more than one line to be written 
+"""
+gets.chomp                      - gets the input from user and deletes any line break that occurred when user submitted input 
+= ARGV                          - allows for input to be give on the command line 
+= ARGV.first                    - ARGV = creates an array .first prevents the one argument from being displayed in an array 
+open()                          - opens file 
+.read                           - allows one to read file
+'r'                             - read
+.truncate(0)                    - erases data in file 
+.write                          - allows one to write on file 
+'w'                             - write 
+'x'                             - execute 
+.close                          - speeds up processing 
+                                - forces the data to where it is supposed to be 
+seek()                          - goes back to a character 
+                                - this is determined by the number in the parenthesis 
+def                             - defines method  
+end                             - closes method 
+{}                              - open and close block 
+                                - no need for end 
+return                          - returns the result of the argument being submitted into the method
