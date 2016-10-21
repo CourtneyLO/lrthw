@@ -1,3 +1,6 @@
+# Add another argument and use it in your script, 
+# the same way you did in the previous exercise with first, second = ARGV.
+
 name, surname = ARGV 
 prompt =  "> "
 

@@ -1,3 +1,5 @@
+# Change the prompt variable to something else entirely
+
 user_name = ARGV.first 
 sandwitch =  "> "
 
